@@ -1,0 +1,50 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>方法 - 标签 - OrionPax 的个人博客</title>
+        <link>http://blog.orionpax.top/tags/%E6%96%B9%E6%B3%95/</link>
+        <description>方法 - 标签 - OrionPax 的个人博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>OrionPax19970905@gmail.com (OrionPax)</managingEditor>
+            <webMaster>OrionPax19970905@gmail.com (OrionPax)</webMaster><lastBuildDate>Tue, 06 Jul 2021 10:06:06 &#43;0800</lastBuildDate><atom:link href="http://blog.orionpax.top/tags/%E6%96%B9%E6%B3%95/" rel="self" type="application/rss+xml" /><item>
+    <title>如何读一本书</title>
+    <link>http://blog.orionpax.top/2021/07/function-book/</link>
+    <pubDate>Tue, 06 Jul 2021 10:06:06 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://blog.orionpax.top/2021/07/function-book/</guid>
+    <description><![CDATA[选择好书来读，没有营养的就算了。 分块记录作者观点。 标注自己认为重要的部分。 复习巩固。]]></description>
+</item><item>
+    <title>如何学习一个框架</title>
+    <link>http://blog.orionpax.top/2021/05/function-framework/</link>
+    <pubDate>Mon, 17 May 2021 19:46:32 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://blog.orionpax.top/2021/05/function-framework/</guid>
+    <description><![CDATA[了解其简介、使用场景、设计思想、其他类似框架的优缺点对比及使用场景差异等。 了解框架基础知识。 了解框架高级应用、最佳实践、相关生态等。 使用并记]]></description>
+</item><item>
+    <title>如何学习一门编程语言</title>
+    <link>http://blog.orionpax.top/2021/05/function-programming-language/</link>
+    <pubDate>Sat, 15 May 2021 11:50:10 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://blog.orionpax.top/2021/05/function-programming-language/</guid>
+    <description><![CDATA[了解其简介、使用场景、优缺点、设计思想等。 了解语言基础（语法、关键字、变量类型、函数、运算符等及相应的基础概念、基础类库） 了解语言常用扩展类]]></description>
+</item><item>
+    <title>如何记录一个问题</title>
+    <link>http://blog.orionpax.top/2021/05/function-exception/</link>
+    <pubDate>Fri, 14 May 2021 11:14:16 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://blog.orionpax.top/2021/05/function-exception/</guid>
+    <description><![CDATA[记录相应的问题描述及报错信息，要尽量准确，以便后期查询。 记录问题的产生原因。 记录问题的解决方式。]]></description>
+</item><item>
+    <title>如何学习使用新工具</title>
+    <link>http://blog.orionpax.top/2021/05/function-tool/</link>
+    <pubDate>Fri, 14 May 2021 10:49:21 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://blog.orionpax.top/2021/05/function-tool/</guid>
+    <description><![CDATA[了解工具基本介绍设计思想。 了解如何安装。 了解使用方式。 了解常用配置。 使用并记录遇到的问题及解决方案。]]></description>
+</item><item>
+    <title>如何科学上网</title>
+    <link>http://blog.orionpax.top/2019/09/ladder/</link>
+    <pubDate>Mon, 23 Sep 2019 11:03:15 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://blog.orionpax.top/2019/09/ladder/</guid>
+    <description><![CDATA[简介 除了个人搭建梯子的方式，还可以选用各大主流机场或者小型机场。 前置条件 服务器：上搬瓦工、Vultr 或者其他 VPS 厂商买个服务器 SSH 客户端: 直接用]]></description>
+</item></channel>
+</rss>

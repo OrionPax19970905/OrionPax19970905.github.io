@@ -1,0 +1,78 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - OrionPax 的个人博客</title>
+        <link>http://blog.orionpax.top/posts/</link>
+        <description>所有文章 | OrionPax 的个人博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>OrionPax19970905@gmail.com (OrionPax)</managingEditor>
+            <webMaster>OrionPax19970905@gmail.com (OrionPax)</webMaster><lastBuildDate>Tue, 06 Jul 2021 10:06:06 &#43;0800</lastBuildDate><atom:link href="http://blog.orionpax.top/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>如何读一本书</title>
+    <link>http://blog.orionpax.top/2021/07/function-book/</link>
+    <pubDate>Tue, 06 Jul 2021 10:06:06 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://blog.orionpax.top/2021/07/function-book/</guid>
+    <description><![CDATA[选择好书来读，没有营养的就算了。 分块记录作者观点。 标注自己认为重要的部分。 复习巩固。]]></description>
+</item><item>
+    <title>IE GET 方式请求数据缓存问题</title>
+    <link>http://blog.orionpax.top/2021/07/ie-e1/</link>
+    <pubDate>Sat, 03 Jul 2021 11:51:34 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://blog.orionpax.top/2021/07/ie-e1/</guid>
+    <description><![CDATA[问题描述 IE 浏览器请求数据不会更新。 产生原因 IE会缓存GET方式的URL访问返回的数据，如果下一次访问的URL相同的话，IE不会访问服务器而是]]></description>
+</item><item>
+    <title>唯二好用的连接池之 Druid 的使用</title>
+    <link>http://blog.orionpax.top/2021/05/druid/</link>
+    <pubDate>Sun, 23 May 2021 14:16:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://blog.orionpax.top/2021/05/druid/</guid>
+    <description><![CDATA[简介 Druid 是一个数据库连接池。在功能、性能、扩展性方面，都超过其他数据库连接池，包括 DBCP、C3P0、BoneCP、Proxool、JBoss]]></description>
+</item><item>
+    <title>如何学习一个框架</title>
+    <link>http://blog.orionpax.top/2021/05/function-framework/</link>
+    <pubDate>Mon, 17 May 2021 19:46:32 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://blog.orionpax.top/2021/05/function-framework/</guid>
+    <description><![CDATA[了解其简介、使用场景、设计思想、其他类似框架的优缺点对比及使用场景差异等。 了解框架基础知识。 了解框架高级应用、最佳实践、相关生态等。 使用并记]]></description>
+</item><item>
+    <title>如何学习一门编程语言</title>
+    <link>http://blog.orionpax.top/2021/05/function-programming-language/</link>
+    <pubDate>Sat, 15 May 2021 11:50:10 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://blog.orionpax.top/2021/05/function-programming-language/</guid>
+    <description><![CDATA[了解其简介、使用场景、优缺点、设计思想等。 了解语言基础（语法、关键字、变量类型、函数、运算符等及相应的基础概念、基础类库） 了解语言常用扩展类]]></description>
+</item><item>
+    <title>如何记录一个问题</title>
+    <link>http://blog.orionpax.top/2021/05/function-exception/</link>
+    <pubDate>Fri, 14 May 2021 11:14:16 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://blog.orionpax.top/2021/05/function-exception/</guid>
+    <description><![CDATA[记录相应的问题描述及报错信息，要尽量准确，以便后期查询。 记录问题的产生原因。 记录问题的解决方式。]]></description>
+</item><item>
+    <title>如何学习使用新工具</title>
+    <link>http://blog.orionpax.top/2021/05/function-tool/</link>
+    <pubDate>Fri, 14 May 2021 10:49:21 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://blog.orionpax.top/2021/05/function-tool/</guid>
+    <description><![CDATA[了解工具基本介绍设计思想。 了解如何安装。 了解使用方式。 了解常用配置。 使用并记录遇到的问题及解决方案。]]></description>
+</item><item>
+    <title>Angular 的使用</title>
+    <link>http://blog.orionpax.top/2020/04/angular/</link>
+    <pubDate>Sun, 12 Apr 2020 14:28:05 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://blog.orionpax.top/2020/04/angular/</guid>
+    <description><![CDATA[简介 Angular 是一个应用设计框架与开发平台，用于创建高效、复杂、精致的单页面应用。 基础 模版语法 Angular 模板语法的五个常用特性： *ngFor *ngIf 插值 {{}} 属性绑定 [] 事件绑定]]></description>
+</item><item>
+    <title>Mybatis 的使用</title>
+    <link>http://blog.orionpax.top/2020/04/mybatis/</link>
+    <pubDate>Sat, 04 Apr 2020 11:29:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://blog.orionpax.top/2020/04/mybatis/</guid>
+    <description><![CDATA[简介 Mybatis 是一个数据持久层(ORM)框架。但是只完成了结果集到对象的映射，而 Hibernate 是数据表到对象的映射。 优点： 简单易学：本身就很小且简单。没有任何第]]></description>
+</item><item>
+    <title>Flutter 的使用</title>
+    <link>http://blog.orionpax.top/2020/03/flutter/</link>
+    <pubDate>Sat, 21 Mar 2020 21:04:37 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://blog.orionpax.top/2020/03/flutter/</guid>
+    <description><![CDATA[基础 Dart 什么是 Dart ? 因为 JavaScript 的种种问题，Dart 最初是 Google 设计用来代替 JavaScript 的语言。但是 JavaScript 因为 Node.js 成为了前后端同吃的全栈语言，前端的开发模式也因此改变，D]]></description>
+</item></channel>
+</rss>
